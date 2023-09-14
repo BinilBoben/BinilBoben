@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BinilBoben
-- 👀 I’m interested in ...learning more about your project
+- 👀 I’m interested in coding and programming...learning more about your project
 - 🌱 I’m currently learning ...Management Information Systems 
 - 💞️ I’m looking to collaborate on ...any projects that needs help
 - 📫 How to reach me ...via biniljohnboben123@gmail.com
